@@ -1,0 +1,23 @@
+.nav-bar {
+    width: 100%;
+    height: 50px;
+    background-color: #f5f4f1;
+    font-family: Lora;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    // box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    position: relative;
+    z-index: 100;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // z-index: 100;
+    font-family: Lust;
+    .logo-header {
+        font-weight: 300;
+        margin: 0;
+    }
+}

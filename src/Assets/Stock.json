@@ -1,0 +1,117 @@
+{
+    "necklaces" : {
+        "chains" : {
+            "10" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "11" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "12" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "13" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "14" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            }
+        }
+    },
+    "bracelet" : {
+        "chains" : {
+            "20" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "21" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "22" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "23" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            },
+            "24" : {
+                "img" : "", 
+                "name": "",
+                "description": "",
+                "material": "",
+                "inStock": true
+            }
+        }
+    },
+    "charms": {
+        "30" : {
+            "img" : "", 
+            "name": "",
+            "description": "",
+            "material": "",
+            "inStock": true
+        },
+        "30" : {
+            "img" : "", 
+            "name": "",
+            "description": "",
+            "material": "",
+            "inStock": true
+        },
+        "30" : {
+            "img" : "", 
+            "name": "",
+            "description": "",
+            "material": "",
+            "inStock": true
+        },
+        "30" : {
+            "img" : "", 
+            "name": "",
+            "description": "",
+            "material": "",
+            "inStock": true
+        },
+                "30" : {
+            "img" : "", 
+            "name": "",
+            "description": "",
+            "material": "",
+            "inStock": true
+        }
+    }
+}
