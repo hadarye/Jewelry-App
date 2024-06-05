@@ -1,41 +1,51 @@
-
-
 .home-page {
-    width: 100%;
-    // height: 100%;
-    overflow: scroll;
-    font-family: Karantina-light;
-    position: relative;
-    .main-header {
-        font-weight: 100; 
-        margin: 20px 0 8px 0;
-        font-family: Lust;
-    }
+  width: 100%;
+  // height: 100%;
+  overflow: scroll;
+  font-family: Karantina-light;
+  position: relative;
+  .main-header {
+    font-weight: 100;
+    margin: 20px 0 8px 0;
+    font-family: Lust;
+  }
+  .cards-grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    // background-color: #f9cdd5;
     .card {
-        width: 90%;
-        // height: 120px;
+        
+        display: flex;
+        flex-shrink: 0;
         font-size: 30px;
         font-family: Karantina-light;
         font-stretch: extra-expanded;
-        // box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-        background-color: #f9cdd5 ;
-        margin: 0px auto 30px auto;
+        margin: 5px auto;
         border-radius: 5px;
-        padding: 14px 12px;
-        .image {
-            width: 100%;
-            margin: 0 auto;
-            height: 200px;
-            background-repeat: no-repeat;
-            background-size: cover;
-            background-position: center;
-            margin-bottom: 10px;
-        }
-        .necklace {
-            background-image: url('../../Assets/Images/necklace.webp');
-        }
-        .bracelet {
-            background-image: url('../../Assets/Images/bracelet.webp');
-        }
+        padding: 10px 10px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+        padding: 0 20px;
+      .image {
+        width: 200px;
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 7px;
+      }
+      .necklace {
+        background-image: url("../../Assets/Images/necklace.webp");
+      }
+      .bracelet {
+        background-image: url("../../Assets/Images/bracelet.webp");
+      }
     }
+  }
 }
