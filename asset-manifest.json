@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MONA-Jewelry/static/css/main.bf6ed06a.css",
+    "main.js": "/MONA-Jewelry/static/js/main.81a8dbcd.js",
+    "static/js/453.697ba20e.chunk.js": "/MONA-Jewelry/static/js/453.697ba20e.chunk.js",
+    "static/media/Lora-Italic-VariableFont_wght.ttf": "/MONA-Jewelry/static/media/Lora-Italic-VariableFont_wght.81d1cb5fbde40e226ac0.ttf",
+    "static/media/Lora-Regular.ttf": "/MONA-Jewelry/static/media/Lora-Regular.1a662fb4f602b5400e3f.ttf",
+    "static/media/Lust Regular.woff.otf": "/MONA-Jewelry/static/media/Lust Regular.woff.6c09fdf9913d9871bbd2.otf",
+    "static/media/Karantina-Light.ttf": "/MONA-Jewelry/static/media/Karantina-Light.20ce8ef06a781aede0f7.ttf",
+    "static/media/bracelet.webp": "/MONA-Jewelry/static/media/bracelet.d6c391a08b39894ea7c0.webp",
+    "static/media/necklace.webp": "/MONA-Jewelry/static/media/necklace.6f305c8845db2291bd07.webp",
+    "static/media/logo.svg": "/MONA-Jewelry/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MONA-Jewelry/index.html",
+    "main.bf6ed06a.css.map": "/MONA-Jewelry/static/css/main.bf6ed06a.css.map",
+    "main.81a8dbcd.js.map": "/MONA-Jewelry/static/js/main.81a8dbcd.js.map",
+    "453.697ba20e.chunk.js.map": "/MONA-Jewelry/static/js/453.697ba20e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6ed06a.css",
+    "static/js/main.81a8dbcd.js"
+  ]
+}
