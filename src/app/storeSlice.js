@@ -14,4 +14,10 @@ export const storeSlice = createSlice({
             state.createYourOwn = initialState.createYourOwn;
         }
     }
-})
+});
+
+export const {
+    resetStoreSlice
+} = storeSlice.actions;
+
+export default storeSlice.reducer;
