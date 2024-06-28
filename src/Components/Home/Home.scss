@@ -43,4 +43,12 @@
       }
     }
   }
+
+  .products {
+    width: 100%;
+    display: flex;
+    font-size: 40px;
+    justify-content: space-evenly;
+    margin: 20px 0;
+  }
 }

@@ -3,7 +3,8 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState = {
     createYourOwn : {
         type: "necklace"
-    }
+    },
+    
 };
 
 export const storeSlice = createSlice({
