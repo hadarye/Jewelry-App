@@ -1,7 +1,7 @@
 {
   "name": "jewelry-app",
   "version": "0.1.0",
-  "homepage": "https://hadarye.github.io/MONA-Jewelry",
+  "homepage": "https://hadarye.github.io/Jewelry-App",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
