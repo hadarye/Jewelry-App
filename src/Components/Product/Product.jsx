@@ -18,6 +18,7 @@ const Product = () => {
     <>
         <img src={productObj.img}></img>
       <div>{productObj.name}</div>
+      
     </>
   );
 };
